@@ -9,5 +9,6 @@
 	<classpathentry kind="lib" path="/ice/Downloads/Librarises/guava-24.1-jre-javadoc.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="lib" path="/ice/Downloads/Librarises/selenium-api-3.11.0.jar"/>
+	<classpathentry kind="lib" path="/ice/Downloads/Librarises/selenium-remote-driver-3.11.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
